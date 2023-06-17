@@ -1,17 +1,3 @@
-/**
- * Driver file for CS 210 Program 2
- * @author
- * @date Jun 2023
- *
- * Runs the student code and provides 1 test case.
- * This case may not test everything and it is
- * always recommended that you implement your own
- * tests.
- * Driver files will not necessarily be
- * provided for all projects.
- */
-
-
 #include <stdlib.h>
 #include <iostream>
 
